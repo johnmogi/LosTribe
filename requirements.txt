@@ -1,2 +1,6 @@
 pygame==2.5.2
 pygbag==0.8.3
+arcade==3.0.0
+pathfinding==1.0.1
+pytiled-parser==2.2.0
+numpy==1.24.3
